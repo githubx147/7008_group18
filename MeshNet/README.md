@@ -17,7 +17,7 @@ Dataset [ModelNet10](http://modelnet.cs.princeton.edu/) and [ModelNet40](http://
 
 ### Data Preparation
 
-MeshNet requires the pre-processed ModelNet40 with simplified and re-organized mesh data. To quickly start training, we recommend to use pre-processed ModelNet40 dataset: `ModelNet40_processed`
+MeshNet requires the pre-processed ModelNet40 with simplified and re-organized mesh data. To quickly start training, we recommend to use pre-processed ModelNet40 dataset: [ModelNet40_processed](https://drive.google.com/file/d/175Q3sZn5YtojYmVdAwNa8q-r0oZq8VCA/view?usp=drive_link)
 
 ### Data Format
 
